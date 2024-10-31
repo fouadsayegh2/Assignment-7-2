@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Vintage T-shirt",
+        "description": "Tie-dye Grateful Dead T-shirt",
+        "price": 35,
+        "categories": ["clothing", "vintage"]
+    },
+    {
+        "name": "Smartphone",
+        "description": "Latest model with OLED display",
+        "price": 999,
+        "categories": ["electronics"]
+    },
+    {
+        "name": "Bluetooth Speaker",
+        "description": "Portable and waterproof",
+        "price": 120,
+        "categories": ["electronics"]
+    },
+    {
+        "name": "Leather Jacket",
+        "description": "Classic black leather biker jacket",
+        "price": 200,
+        "categories": ["clothing"]
+    },
+    {
+        "name": "Canvas Backpack",
+        "description": "Durable and eco-friendly",
+        "price": 75,
+        "categories": ["accessories"]
+    },
+    {
+        "name": "Wireless Headphones",
+        "description": "Noise-canceling and over-ear",
+        "price": 350,
+        "categories": ["electronics", "accessories"]
+    },
+    {
+        "name": "Running Shoes",
+        "description": "Lightweight and comfortable",
+        "price": 150,
+        "categories": ["clothing", "accessories"]
+    },
+    {
+        "name": "Coffee Maker",
+        "description": "Automatic drip coffee machine",
+        "price": 80,
+        "categories": ["kitchen"]
+    }
+]
